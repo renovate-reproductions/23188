@@ -5,7 +5,7 @@
         {
             "matchDatasources": ["docker"],
             "registryAliases": {
-                "docker.io": "my.company.mirror.local/docker.io"
+                "docker.io": "public.ecr.aws/docker"
             }
         }
     ]
