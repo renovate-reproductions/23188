@@ -1,0 +1,1 @@
+FROM docker.io/bitnami/cosign:2.0.2
